@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1552009842 source:c:\users\pc\desktop\fccproject\dialog-resource.rc
+	<windows.h>
+	"resource.h"
+
+1552009852 c:\users\pc\desktop\fccproject\resource.h
+
+1552146942 source:c:\users\pc\desktop\fccproject\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"resource.h"
+
+1552090160 source:c:\users\pc\desktop\mark iii\dialog-resource.rc
+	<windows.h>
+	"resource.h"
+
+1552090160 c:\users\pc\desktop\mark iii\resource.h
+
+1552239082 source:c:\users\pc\desktop\mark iii\main.cpp
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"resource.h"
+
+1552185656 source:c:\users\vince\desktop\mark iii\dialog-resource.rc
+	<windows.h>
+	"resource.h"
+
+1552185664 c:\users\vince\desktop\mark iii\resource.h
+
+1552185662 source:c:\users\vince\desktop\mark iii\main.cpp
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"resource.h"
+
+1553002232 source:c:\users\vince\desktop\mark iv\dialog-resource.rc
+	<windows.h>
+	"resource.h"
+
+1553002234 c:\users\vince\desktop\mark iv\resource.h
+
+1553002234 source:c:\users\vince\desktop\mark iv\main.cpp
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<commctrl.h>
+	<iostream>
+	"resource.h"
+
+1553002232 source:c:\users\pc\desktop\mark iv\dialog-resource.rc
+	<windows.h>
+	"resource.h"
+
+1553002234 c:\users\pc\desktop\mark iv\resource.h
+
+1553054480 source:c:\users\pc\desktop\mark iv\main.cpp
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<commctrl.h>
+	<iostream>
+	"resource.h"
+
